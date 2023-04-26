@@ -3,7 +3,7 @@ var a= 67
 let b=45
 console.log(a)
 console.log(b)
-b="vikas"
+b="vikas"//thus it is dynamically type program
 var a="vivek"
 console.log(a)
 //let b="singh"//thus it is dynamically type program and you //can't again declare b if its declared using let

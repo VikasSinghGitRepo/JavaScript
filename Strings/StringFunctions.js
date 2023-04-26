@@ -11,10 +11,10 @@ console.log(name.slice(2,4))//till 3 from 2
 
 console.log(name.slice(2))//till end from 2
 
-console.log(name.replace("vik","shr");
+console.log(name.replace("vik","shr"));
 
 let friend="Singh"
-console.log(name.concat("is a friend of",friend,"ok")
+console.log(name.concat("is a friend of",friend,"ok"))
 
 let friend2="    Meena  "
 console.log(friend2)

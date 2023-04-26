@@ -39,7 +39,7 @@ let comp2=16;
 console.log("comp1==comp2 ",comp1==comp2)
 console.log("comp1!=comp2 ",comp1!=comp2)
 
-//used to compare 5,"5
+//used to compare 5,"5"
 console.log("comp1===comp2 ",comp1===comp2)
 console.log("comp1!==comp2 ",comp1 !== comp2)
 
